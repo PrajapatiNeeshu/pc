@@ -1,0 +1,10 @@
+{
+  "name": "automation-website",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Minimal package.json to fix npm ENOENT error",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  }
+}
